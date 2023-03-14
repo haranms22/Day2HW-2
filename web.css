@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+    background-color: red;
+}
+.heading{
+    width: 80%;
+    height: 100%;
+    background-color: green;
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: yellow;
+}
+.section{
+    display: flex;
+}
+.section1{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+}
+.section2{
+    width: 100%;
+    height: 300px;
+    background-color: olive;
+}
+.section3{
+    width: 100%;
+    height: 300px;
+    background-color: darksalmon;
+}
+.page{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.content{
+    width: 80%;
+    height: 100%;
+    background-color: springgreen;
+}
+.sidebar{
+    width: 20%;
+    height: 100%;
+    background-color: darkgoldenrod;
+}
+.footer{
+    width: 100%;
+    height: 90px;
+    background-color: cadetblue;
+}
